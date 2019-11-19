@@ -3,3 +3,4 @@ node_modules/**/*
 npm-debug.*
 android/gradle.properties
 android/app/my-upload-key.keystore
+android/local.properties
